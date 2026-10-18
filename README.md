@@ -1,27 +1,126 @@
-# 💫 About Me:
-# Hi there 👋, I'm Muhammed Anees<br><br>💻 Computer Science Engineering student at Govt. Model Engineering College, Kochi<br>🚀 Full-Stack Developer passionate about building scalable web apps and meaningful products<br>⚡ Interested in Frontend, Backend, Databases, and Cybersecurity<br><br>## 🔭 Currently Working On<br><br>* Full-stack web applications with React, Next.js, Node.js & Supabase<br>* Improving UI/UX and performance optimization<br>* Exploring scalable backend architectures<br><br>## 🌱 Currently Learning<br><br>* Advanced System Design<br>* Docker & Deployment Workflows<br>* Secure Authentication & API Architecture<br>* AI-powered applications<br><br>## 👯 Looking to Collaborate On<br><br>* Open-source projects<br>* Full-stack SaaS ideas<br>* Hackathons and developer communities<br><br>## 💬 Ask Me About<br><br>* React / Next.js<br>* Supabase & Firebase<br>* TypeScript<br>* REST APIs<br>* Full-stack development<br>* Building MVPs fast 🚀<br><br>## 🛠️ Tech Stack<br><br>```txt<br>Frontend   : React, Next.js, TypeScript, Tailwind CSS<br>Backend    : Node.js, Express.js, Flask, FastAPI<br>Database   : PostgreSQL, MongoDB, Supabase, Firebase<br>Tools      : Git, GitHub, Docker, Postman, Vercel<br>```<br><br>## 🚀 Featured Projects<br><br>### 🔹 GitliteVCS<br><br>A web-based version control platform with branch management, commit tracking, repository history, and a high-performance diff viewer.<br><br>### 🔹 Seva Sankalp<br><br>A social impact platform built using React + Supabase with secure authentication and streamlined content workflows.<br><br>### 🔹 Walnut Snowveil Residency<br><br>A modern booking platform with Google OAuth authentication and optimized reservation workflows.<br><br>### 🔹 Query Quest<br><br>A full-stack query management system with status tracking and role-based dashboards.<br><br>## 🏆 Achievements<br><br>* 🥇 1st Place — Hacktopia Hackathon<br>* 🎯 Coordinator — Query Quest @ EXCEL MEC 2025<br>* 🤝 Volunteer — EXCEL MEC 2025<br><br>## 📫 Connect With Me<br><br>* LinkedIn: [www.linkedin.com/in/muhammed-anees-k](http://www.linkedin.com/in/muhammed-anees-k)<br>* GitHub: github.com/aneesmuhammeed<br>* Email: [muhammedanees.mec@gmail.com](mailto:muhammedanees.mec@gmail.com)<br><br>## ⚡ Fun Fact<br><br>I love turning random ideas into full-stack products faster than my teammates expect 😄<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammed%20Anees&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Building%20scalable%20products&descAlignY=58&descSize=18" alt="Header" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammed-aneesk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneesk002@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=CS+Engineering+student+at+GEC+Kochi+(MEC);Full-stack+%7C+React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+Supabase;Turning+random+ideas+into+shipped+products+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aneesmuhammeed&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aneesmuhammeed&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aneesmuhammeed&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <a href="https://www.linkedin.com/in/muhammed-anees-k"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:muhammedanees.mec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/aneesmuhammeed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aneesmuhammeed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://komarev.com/ghpvc/?username=aneesmuhammeed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aneesmuhammeed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aneesmuhammeed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I'm a **Computer Science & Engineering student at Govt. Model Engineering College, Kochi**, and a full-stack developer who loves building scalable web apps and products people actually use. I care about clean architecture, solid UX, and shipping MVPs fast, without cutting corners on security.
+
+| | |
+|---|---|
+| 🔭 **Working on** | Full-stack apps with React, Next.js, Node.js & Supabase, plus UI/UX and performance work |
+| 🌱 **Learning** | Advanced system design · Docker & deployment · Secure auth & API architecture · AI-powered apps |
+| 👯 **Open to collaborate on** | Open-source projects · Full-stack SaaS ideas · Hackathons & dev communities |
+| 💬 **Ask me about** | React / Next.js · TypeScript · Supabase & Firebase · REST APIs · Building MVPs fast |
+| ⚡ **Fun fact** | I turn random ideas into full-stack products faster than my teammates expect 😄 |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,py,dart,java,kotlin,c,cpp&theme=dark" alt="Languages" />
+
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark" alt="Frontend" />
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask&theme=dark" alt="Backend" />
+
+**Mobile**<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile" />
+
+**Databases & BaaS**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase&theme=dark" alt="Databases" />
+
+**Tools & Cloud**<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman&theme=dark" alt="Tools" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔹 GitliteVCS</h3>
+      <p>A web-based version control platform with branch management, commit tracking, repository history, and a high-performance diff viewer.</p>
+      <p><img src="https://img.shields.io/badge/Full--Stack-0ea5e9?style=flat-square" /> <img src="https://img.shields.io/badge/Version%20Control-6366f1?style=flat-square" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 Seva Sankalp</h3>
+      <p>A social impact platform built with React and Supabase, featuring secure authentication and streamlined content workflows.</p>
+      <p><img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔹 Walnut Snowveil Residency</h3>
+      <p>A modern booking platform with Google OAuth authentication and optimized reservation workflows.</p>
+      <p><img src="https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Booking%20System-f59e0b?style=flat-square" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 Query Quest</h3>
+      <p>A full-stack query management system with status tracking and role-based dashboards.</p>
+      <p><img src="https://img.shields.io/badge/RBAC-ef4444?style=flat-square" /> <img src="https://img.shields.io/badge/Dashboards-8b5cf6?style=flat-square" /></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place**: Hacktopia Hackathon
+- 🎯 **Coordinator**: Query Quest @ EXCEL MEC 2025
+- 🤝 **Volunteer**: EXCEL MEC 2025
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aneesmuhammeed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneesmuhammeed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=aneesmuhammeed&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=aneesmuhammeed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always up for open-source work, SaaS ideas, and hackathons. If you've got something interesting, reach out.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed%20Anees%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-anees-k)
+[![Email](https://img.shields.io/badge/Email-muhammedanees.mec%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammedanees.mec@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Footer" />
+
+</div>
